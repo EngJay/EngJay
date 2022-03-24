@@ -2,6 +2,7 @@
 
 ## Accomplishments
 
+- 2020 Publish an academic paper on classification of text using artificial neural networks as a coauthor.
 - May - August 2020 Developed a proof-of-concept of a .NET Core + Angular application paired with a hardware test fixture to partially automate test procedures. 
 - July 2020 Developed and presented a proof-of-concept for hardware-in-the-loop testing of TI C2000 embedded software.
 - October 2020 - April 2021 Developed a full-stack .NET Core + Angular web application to aid the engineering change control process.
@@ -19,6 +20,7 @@
 - March 2022 Drafted informal survey of application of IEC 61508 Functional Safety standard
 - March 2022 Drafted informal survey of applicaton of IEC 61508-3 Software Safety Lifecycle Requirements
 - March 2022 Conducted informal survey of software engineering team using the informal survay of the application of IEC 61508-3.
+- March 2022 Developed proof-of-concept of replacing PI controllers with a reinforcement learning-generated model to improve performance. 
 
 <!--
 **EngJay/EngJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
