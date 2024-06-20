@@ -1,15 +1,22 @@
 ### Hi there 👋
 
-## Notable Accomplishments
+## Notable Achievements
 
 - Crafted embedded software for safety-critical applications like
   battery-charging, traction, and vehicle control.
 - Patched production embedded software to fix devices in the field.  
 - Pioneered off-target unit testing for embedded software projects in two
   organizations.
-- Led development and implamentation of CI workflows for embedded DevOps in two
-organizations.
+- Led development and implementation of CI workflows for embedded DevOps in two
+  organizations.
 
+## Thing I've Been Told Weren't Possible but I Did Them Anyway
+
+- Natively build embedded software on the host machine for simulation.
+- Use Python to run simulations with embedded C/C++ modules.
+- Test embedded software off-target.
+- Build embeddded software in a Docker container.
+- Build CI pipelines for embedded software.
 
 ## Continuing Education
 
@@ -43,12 +50,45 @@ organizations.
 
 ### **Recent**
 
+## Stats
+
 ![EngJay's GitHub stats light](https://github-readme-stats-engjay.vercel.app/api?username=EngJay&count_private=true&hide=stars&theme=default&show_icons=true&hide_rank=true&custom_title=Jason's%20GitHub%20Stats&include_all_commits=true&show=reviews)
 
 ![Top Langs](https://github-readme-stats-engjay.vercel.app/api/top-langs/?username=engjay&count_private=true&layout=compact&hide=jupyter%20notebook,php,html,css)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+- Average number of dev boards on my desk at a given time: 5.
+- Typical availability on Slack: Always.
+
+## Publications
+
+- Dr. Anna Koufakou and Jason Scott. 2020.
+  [Lexicon-Enhancement of Embedding-based Approaches Towards the Detection of Abusive Language](https://aclanthology.org/2020.trac-1.24).
+  In Proceedings of the Second Workshop on Trolling, Aggression and
+  Cyberbullying, pages 150–157, Marseille, France. European Language Resources
+  Association (ELRA). [[repo](https://github.com/EngJay/Wikimedia-Toxicity-Text-Classification)]
+
+## Dev Board Collection
+
+### ST
+
+- STM32F4 Discovery
+- STM32 Nucleo F767ZI
+- 
+
+### Texas Instruments
+
+- 
+
+### Nordic
+
+- 
+
+### Raspberry Pi
+
+### Arduino
 
 <!-- OLD STUFF
 
