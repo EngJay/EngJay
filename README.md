@@ -41,7 +41,7 @@ creative problem-solving.
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 </p>
 
-#### Varying degrees of experience
+#### Varying amounts of experience with:
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
@@ -109,7 +109,7 @@ creative problem-solving.
 - Natively build embedded software on the host machine for simulation.
 - Use Python to run simulations with embedded C/C++ modules.
 - Test embedded software off-target.
-- Build embeddded software in a Docker container.
+- Build embeddded software in a Docker containers.
 - Build CI pipelines for embedded software.
 - Support multiple microprocessors from different vendors with a single
   codebase without it being a nightmare.
