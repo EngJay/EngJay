@@ -58,8 +58,6 @@ be done.
 
 ## Stats
 
-![EngJay's GitHub stats light](https://github-readme-stats-engjay.vercel.app/api?username=EngJay&count_private=true&hide=stars&theme=default&show_icons=true&hide_rank=true&custom_title=Jason's%20GitHub%20Stats&include_all_commits=true&show=reviews)
-
 ![Top Langs](https://github-readme-stats-engjay.vercel.app/api/top-langs/?username=engjay&count_private=true&layout=compact&hide=jupyter%20notebook,php,html,css)
 
 <!--START_SECTION:waka-->
