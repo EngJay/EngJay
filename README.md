@@ -106,10 +106,10 @@ creative problem-solving.
 
 ### Thing I've Been Told Weren't Possible but I Did Them Anyway
 
-- Natively build embedded software on the host machine for simulation.
+- Natively build embedded software on the build machine for simulation.
 - Use Python to run simulations with embedded C/C++ modules.
 - Test embedded software off-target.
-- Build embeddded software in a Docker containers.
+- Build embeddded software in Docker containers.
 - Build CI pipelines for embedded software.
 - Support multiple microprocessors from different vendors with a single
   codebase without it being a nightmare.
@@ -123,9 +123,11 @@ creative problem-solving.
   ([repo](https://github.com/EngJay/embedded-rust-book)).
 
   - Since the release of the pricing for the functional safety-certified version
-    of Rust, Ferrocene, I anticipate the adoption of Rust for embedded and
-    safety-critical appliction will accelerate. It seems far less costly for
-    licensing, tooling, and process development than for safe C/C++.
+    of [Rust](https://www.rust-lang.org/),
+    [Ferrocene](https://ferrocene.dev/en/), I anticipate the adoption of Rust
+    for embedded and safety-critical applictions will accelerate. It seems far
+    less costly for licensing, tooling, and process development than for safe
+    C/C++, especially for small to midsize organizations.
 
 [^1]:
     The term "work-through" is what I've come up with for instances of my
