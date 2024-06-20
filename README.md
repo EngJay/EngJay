@@ -34,10 +34,9 @@
 
 ### **Recent**
 
-![EngJay's GitHub stats dark](https://github-readme-stats-engjay.vercel.app/api?username=EngJay&count_private=true&hide=stars&theme=synthwave&show_icons=true#gh-dark-mode-only)
-![EngJay's GitHub stats light](https://github-readme-stats-engjay.vercel.app/api?username=EngJay&count_private=true&hide=stars&theme=default&show_icons=true#gh-light-mode-only)
+![EngJay's GitHub stats light](https://github-readme-stats-engjay.vercel.app/api?username=EngJay&count_private=true&hide=stars&theme=default&show_icons=true&hide_rank=true&custom_title=Jason's%20GitHub%20Stats&include_all_commits=true&show=reviews)
 
-![Top Langs](https://github-readme-stats-engjay.vercel.app/api/top-langs/?username=engjay&count_private=true&layout=compact&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats-engjay.vercel.app/api/top-langs/?username=engjay&count_private=true&layout=compact&hide=jupyter%20notebook,php,html,css)
 
 <!-- OLD STUFF
 
