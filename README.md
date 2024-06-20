@@ -17,6 +17,12 @@
 - Test embedded software off-target.
 - Build embeddded software in a Docker container.
 - Build CI pipelines for embedded software.
+- Support multiple microprocessors from different vendors with a single
+  codebase without it being a nightmare.
+
+It's truly remarkable how some will just say, "you can't do that," when they
+don't really know. I'm here for the challenge of doing things others say can't
+be done.
 
 ## Continuing Education
 
