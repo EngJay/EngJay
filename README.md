@@ -1,10 +1,19 @@
 ### Hi there 👋
 
-## **Notable Accomplishments**
+## Notable Accomplishments
 
-## **Continuing Education**
+- Crafted embedded software for safety-critical applications like
+  battery-charging, traction, and vehicle control.
+- Patched production embedded software to fix devices in the field.  
+- Pioneered off-target unit testing for embedded software projects in two
+  organizations.
+- Led development and implamentation of CI workflows for embedded DevOps in two
+organizations.
 
-### **In-Progress**
+
+## Continuing Education
+
+### *In-Progress*
 
 - Work-Through[^1]:
 [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
@@ -37,6 +46,9 @@
 ![EngJay's GitHub stats light](https://github-readme-stats-engjay.vercel.app/api?username=EngJay&count_private=true&hide=stars&theme=default&show_icons=true&hide_rank=true&custom_title=Jason's%20GitHub%20Stats&include_all_commits=true&show=reviews)
 
 ![Top Langs](https://github-readme-stats-engjay.vercel.app/api/top-langs/?username=engjay&count_private=true&layout=compact&hide=jupyter%20notebook,php,html,css)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- OLD STUFF
 
