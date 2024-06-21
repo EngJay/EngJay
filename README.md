@@ -192,7 +192,7 @@ development boards. I thought it would be fun to share my collection.
 
 #### Raspberry Pi
 
-- Raspberry Pi Zero W
+- [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/)
 - Raspberry Pi 1 (an original with only 26 pins manufactured in 2011, not even listed on the website)
 - [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b)
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b)
