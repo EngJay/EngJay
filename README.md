@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm Jason, a passionate software engineer with over 8+ years of experience
-who can program anything if it's programmable currently specialized in embedded
-software engineering with C/C++, embedded DevOps, and Agile methodologies.
-Voracious life-long learner with demonstrated ability to innovate, drive
-continuous improvement, and ensure successful outcomes with systems thinking and
-creative problem-solving.
+I'm Jason, a passionate software engineer with over 8 years of experience. I specialize in embedded software engineering using C/C++, embedded DevOps, and Agile methodologies, with a background in full-stack web development. As a voracious life-long learner, I have a demonstrated ability to innovate, drive continuous improvement, and ensure successful outcomes through systems thinking and creative problem-solving.
+
+Currently, I'm seeking a new role to further my growth as an engineer and team member. For several years, I have collaborated with control systems experts to develop software for systems that control traction, propulsion, charging, and other safety-critical applications. I have also focused on continuously improving the processes used in these projects. I thrive on the challenges posed by such projects and enjoy collaborating with engineers from a wide range of disciplines.
+
+Outside of my work as a software engineer, I am passionate about jiu-jitsu. I have been practicing jiu-jitsu for as long as I have been working with software, finding it a perfect physically-active complement to my career. Jiu-jitsu requires similar elements like intellectual curiosity, teamwork, and humility, while also countering the unhealthy aspects of spending long hours in front of a computer. When I’m not tinkering with software or embedded systems, I am likely engaged in my jiu-jitsu practice.
+
+I also greatly enjoy learning and sharing my knowledge with others. I am involved in sponsoring university students for their senior projects, mentoring interns, and participating in industry advisory board meetings at my local university.
 
 - 🚀 &nbsp;I'm currently working on personal R & D project for crafting
   embedded software that better accomodates change.
@@ -24,7 +25,7 @@ creative problem-solving.
 
 ### Technologies & Tools
 
-#### Current strengths include:
+#### Current strengths include
 
 - Embedded C/C++.
 - Python, especially in the context of embedded dev and DevOps.
@@ -41,7 +42,7 @@ creative problem-solving.
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 </p>
 
-#### Varying amounts of experience with:
+#### Varying amounts of experience with
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
@@ -211,10 +212,10 @@ development boards. I thought it would be fun to share my collection.
 ### My GitHub Stats
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 201.0 kB Used in GitHub's Storage 
-> 
+> 📦 201.0 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
 >
 > 📜 19 Public Repositories
