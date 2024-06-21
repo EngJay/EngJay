@@ -200,7 +200,7 @@ development boards. I thought it would be fun to share my collection.
 #### ST
 
 - [STM32F103 "Blue Pill"](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
-- [STM32F4 Discovery](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+- [STM32F3 Discovery](https://www.st.com/en/evaluation-tools/stm32f3discovery.html)
 - [Nucleo F767ZI](https://www.st.com/en/evaluation-tools/nucleo-f767zi.html)
 
 #### Texas Instruments
