@@ -25,16 +25,19 @@ I also greatly enjoy learning and sharing my knowledge with others. I am involve
 
 ### Recent Work
 
-Recent work I've released includes:
+My recent public work includes:
 
 - a [v2.0.0](https://github.com/EngJay/simple-landing-page/releases/tag/v2.0.0)
   version of a
   [simple landing page](https://github.com/EngJay/simple-landing-page) driven by
   the need for landing page placeholders for a few web ventures I have going on
   at the moment.
-
-- an initial 0.1.0 release of a Rust embedded-hal driver for the PCB Artists SPL
-  module.
+- an initial
+  [0.1.0 release](https://github.com/EngJay/pa-spl/releases/tag/v0.1.0) of a
+  Rust [embedded-hal](https://github.com/rust-embedded/embedded-hal) driver for
+  the
+  [PCB Artists SPL module](https://pcbartists.com/product/i2c-decibel-sound-level-meter-module/).
+- the start of a reusable embedded C/C++ I2C driver for the Wii Nunchuk.
 
 ### Technologies & Tools
 
