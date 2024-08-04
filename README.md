@@ -18,6 +18,7 @@ I also greatly enjoy learning and sharing my knowledge with others. I am involve
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
+  <a href="https://jasonpscott.com" target="blank"><img align="center" src="https://img.shields.io/badge/jasonpscott.com-blue?style=flat-square" alt="Jason P. Scott's website" style="height: 28px;" /></a>
   <a href="https://linkedin.com/in/engjay" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="engjay" /></a>
 </p>
 
