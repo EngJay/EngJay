@@ -18,7 +18,7 @@ I also greatly enjoy learning and sharing my knowledge with others. I am involve
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-  <a href="https://linkedin.com/in/engjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engjay" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/engjay" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="engjay" /></a>
 </p>
 
 <!-- TODO Latest Articles -->
@@ -174,7 +174,7 @@ Platforms
   and collaboration.
 - Released open source projects including a
   [simple landing page](https://github.com/EngJay/simple-landing-page) and a
-  Rust embedded-hal driver for a SPL sensor.
+  [Rust embedded-hal driver for a SPL sensor](https://github.com/EngJay/pa-spl).
 
 ### Thing I've Been Told Weren't Possible but I Did Them Anyway
 
