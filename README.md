@@ -26,19 +26,18 @@ I also greatly enjoy learning and sharing my knowledge with others. I am involve
 
 ### Recent Work
 
-My recent public work includes:
+My recent public work:
 
-- a [v2.0.0](https://github.com/EngJay/simple-landing-page/releases/tag/v2.0.0)
+- Published an initial
+  [v0.1.0 release](https://github.com/EngJay/pa-spl/releases/tag/v0.1.0) of a
+  Rust [embedded-hal](https://github.com/rust-embedded/embedded-hal) driver for
+  the
+  [PCB Artists SPL module](https://pcbartists.com/product/i2c-decibel-sound-level-meter-module/).
+- Published a [v2.0.0](https://github.com/EngJay/simple-landing-page/releases/tag/v2.0.0)
   version of a
   [simple landing page](https://github.com/EngJay/simple-landing-page) driven by
   the need for landing page placeholders for a few web ventures I have going on
   at the moment.
-- an initial
-  [0.1.0 release](https://github.com/EngJay/pa-spl/releases/tag/v0.1.0) of a
-  Rust [embedded-hal](https://github.com/rust-embedded/embedded-hal) driver for
-  the
-  [PCB Artists SPL module](https://pcbartists.com/product/i2c-decibel-sound-level-meter-module/).
-- the start of a reusable embedded C/C++ I2C driver for the Wii Nunchuk.
 
 ### Technologies & Tools
 
@@ -61,7 +60,7 @@ My recent public work includes:
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 </p>
 
-#### Incomplete list of things with varying amounts of experience:
+#### Incomplete list of things with which I have varying amounts of experience:
 
 Additional Languages
 
@@ -80,7 +79,7 @@ Backend
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  
+  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
 </p>
 
 Cloud Services
@@ -123,7 +122,6 @@ Frameworks
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
