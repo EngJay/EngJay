@@ -29,7 +29,8 @@ in sponsoring university students for their senior projects, mentoring interns,
 and participating in industry advisory board meetings at my local university.
 
 - 🚀 &nbsp;I'm currently working on personal R & D project for crafting
-  embedded software that better accomodates change.
+  embedded software that better accomodates change and making open source
+  contributions.
 - 💬 &nbsp;Ask me anything related to embedded C/C++, Rust, or embedded DevOps.
 - 🌱 &nbsp;I'm currently learning embedded Rust, monorepo patterns, and Hardware
   in the Loop (HIL) testing methods.
@@ -58,6 +59,9 @@ My recent public work:
   [simple landing page](https://github.com/EngJay/simple-landing-page) driven by
   the need for landing page placeholders for a few web ventures I have going on
   at the moment.
+- Recently resurrected my personal site located at [jasonpscott.com](https://jasonpscott.com).
+  Just a landing page placeholder at the moment but I'm putting together a
+  simple portfolio and blog that will deployed soon.
 
 ### Technologies & Tools
 
