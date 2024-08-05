@@ -272,6 +272,7 @@ development boards. I thought it would be fun to share my collection.
 #### Microhip
 
 - [dsPIC33CH Curiosity](https://www.microchip.com/en-us/development-tool/dm330028-2)
+- [XMEGA-A3BU XPLAINED](https://www.microchip.com/en-us/development-tool/atxmegaa3bu-xpld) (worked with assembly for the first time ever many years ago on this)
 
 #### Nordic
 
@@ -298,6 +299,7 @@ development boards. I thought it would be fun to share my collection.
 
 - [LaunchPad C2000 F28069M](https://www.ti.com/tool/LAUNCHXL-F28069M)
 - [LaunchPad C2000 F28379D](https://www.ti.com/tool/LAUNCHXL-F28379D)
+- [LaunchPad Sitara AM243x](https://www.ti.com/tool/LP-AM243) (very cool - and fast!)
 
 ### My GitHub Stats
 
