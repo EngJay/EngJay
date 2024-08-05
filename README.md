@@ -1,18 +1,38 @@
 ### Hi there 👋
 
-I'm Jason, a passionate software engineer with over 8 years of experience. I specialize in embedded software engineering using C/C++, embedded DevOps, and Agile methodologies, with a background in full-stack web development. As a voracious life-long learner, I have a demonstrated ability to innovate, drive continuous improvement, and ensure successful outcomes through systems thinking and creative problem-solving.
+I'm Jason, a passionate software engineer with over a decade of experience
+across a broad range of software development areas. I specialize in embedded
+software engineering using C/C++, embedded DevOps, and Agile methodologies,
+with a background in full-stack web development. As a voracious life-long
+learner, I have a demonstrated ability to innovate, drive continuous
+improvement, and ensure successful outcomes through systems thinking and
+creative problem-solving.
 
-Currently, I'm seeking a new role to further my growth as an engineer and team member. For several years, I have collaborated with control systems experts to develop software for systems that control traction, propulsion, charging, and other safety-critical applications. I have also focused on continuously improving the processes used in these projects. I thrive on the challenges posed by such projects and enjoy collaborating with engineers from a wide range of disciplines.
+Currently, I'm seeking a new role to further my growth as an engineer and
+team member. For several years, I have collaborated with control systems experts
+to develop software for systems that control traction, propulsion, charging, and
+other safety-critical applications. I have also focused on continuously
+improving the processes used in these projects. I thrive on the challenges
+posed by such projects and enjoy collaborating with engineers from a wide range
+of disciplines.
 
-Outside of my work as a software engineer, I am passionate about jiu-jitsu. I have been practicing jiu-jitsu for as long as I have been working with software, finding it a perfect physically-active complement to my career. Jiu-jitsu requires similar elements like intellectual curiosity, teamwork, and humility, while also countering the unhealthy aspects of spending long hours in front of a computer. When I’m not tinkering with software or embedded systems, I am likely engaged in my jiu-jitsu practice.
+Outside of my work as a software engineer, I'm passionate about jiu-jitsu. I
+have been practicing jiu-jitsu for as long as I have been working with software,
+finding it a perfect physically-active complement to my career. Jiu-jitsu
+requires similar elements like intellectual curiosity, teamwork, and humility,
+while also countering the unhealthy aspects of spending long hours in front of a
+computer. When I’m not tinkering with software or embedded systems, I am likely
+engaged in my jiu-jitsu practice.
 
-I also greatly enjoy learning and sharing my knowledge with others. I am involved in sponsoring university students for their senior projects, mentoring interns, and participating in industry advisory board meetings at my local university.
+I also greatly enjoy learning and sharing my knowledge with others. I'm involved
+in sponsoring university students for their senior projects, mentoring interns,
+and participating in industry advisory board meetings at my local university.
 
 - 🚀 &nbsp;I'm currently working on personal R & D project for crafting
   embedded software that better accomodates change.
-- 💬 &nbsp;Ask me anything related to embedded C/C++, embedded DevOps.
-- 🌱 &nbsp;I'm currently learning embedded Rust, Monorepo patterns, and Hardware in the
-  Loop (HIL) testing methods.
+- 💬 &nbsp;Ask me anything related to embedded C/C++, Rust, or embedded DevOps.
+- 🌱 &nbsp;I'm currently learning embedded Rust, monorepo patterns, and Hardware
+  in the Loop (HIL) testing methods.
 - 📚 Next, I want to improve with embedded Linux using [Yocto](https://www.yoctoproject.org/).
 
 🔗 &nbsp;**Connect with me**
@@ -29,7 +49,7 @@ I also greatly enjoy learning and sharing my knowledge with others. I am involve
 My recent public work:
 
 - Published an initial
-  [v0.1.0 release](https://github.com/EngJay/pa-spl/releases/tag/v0.1.0) of a
+  [v0.1.0 release](https://github.com/EngJay/pa-spl) of a
   Rust [embedded-hal](https://github.com/rust-embedded/embedded-hal) driver for
   the
   [PCB Artists SPL module](https://pcbartists.com/product/i2c-decibel-sound-level-meter-module/).
@@ -159,6 +179,9 @@ Platforms
 
 ### Notable Achievements
 
+- Released open source projects including a
+  [simple landing page](https://github.com/EngJay/simple-landing-page) and a
+  [Rust embedded-hal driver for a SPL sensor](https://github.com/EngJay/pa-spl).
 - Crafted embedded software for safety-critical applications like
   battery-charging, traction, and vehicle control.
 - Patched production embedded software to fix devices in the field.
@@ -171,9 +194,6 @@ Platforms
   organizations, which dramatically reduced the number of defects escaping
   detection, reduced the code complexity, and improved documentation, code coverage,
   and collaboration.
-- Released open source projects including a
-  [simple landing page](https://github.com/EngJay/simple-landing-page) and a
-  [Rust embedded-hal driver for a SPL sensor](https://github.com/EngJay/pa-spl).
 
 ### Thing I've Been Told Weren't Possible but I Did Them Anyway
 
