@@ -47,6 +47,18 @@ and participating in industry advisory board meetings at my local university.
 
 ### Recent Work
 
+My recently published articles:
+
+- A few months ago, I stumbled onto an excellent post about learning in public
+  that made me reconsider how I have been learning to keep up with my field and
+  further myself as a software engineering professional.
+
+  It took a while to decide how to proceed but I’m moving along now, so here we
+  go 👇
+  
+  🔗 [Do it ugly in public](https://jasonpscott.com/posts/do-it-ugly-in-public/),
+  2024-08-27.
+  
 My recent public work:
 
 - Published an initial
@@ -60,8 +72,6 @@ My recent public work:
   the need for landing page placeholders for a few web ventures I have going on
   at the moment.
 - Recently resurrected my personal site located at [jasonpscott.com](https://jasonpscott.com).
-  Just a landing page placeholder at the moment but I'm putting together a
-  simple portfolio and blog that will deployed soon.
 
 ### Technologies & Tools
 
